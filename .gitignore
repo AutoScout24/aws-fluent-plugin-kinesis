@@ -11,3 +11,5 @@
 /.cache/
 /amazon-kinesis-producer-native-binarie*
 /.ruby-version
+vendor
+.idea
